@@ -1,0 +1,29 @@
+/*** Header area ***/
+header {
+  color: black;
+	font-size: 12px;
+	font-family: sans-serif;
+	text-align: center;
+
+}
+
+/**** section area ***/
+
+.personal-experiences {
+	height: auto;
+	text-align: left;
+
+}
+
+.getting-started {
+	height: 400px;
+	text-align: left;
+}
+
+
+/*** footer ***/
+
+footer {
+	 text-align: center;
+   font-weight: bold;
+}
